@@ -1,4 +1,4 @@
-# Tableau Dashboard Project
+#Amazon Sales Tableau Dashboard
 
 This repository contains a Tableau dashboard designed to analyze key business use cases and track essential KPIs. The dashboard provides actionable insights into sales, profits, shipments, and revenue trends, enabling data-driven decision-making.
 
