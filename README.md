@@ -55,10 +55,16 @@ Include screenshots or images of the Tableau dashboard here to showcase its visu
 - Profit Analysis by Country
 - Orders and Priorities Insights
 
-![image](https://github.com/user-attachments/assets/251c1f4f-e846-40f9-887d-1416ea8d2516)
-![image](https://github.com/user-attachments/assets/3623890c-c7d2-4486-a60f-b87a1928835a)
-![image](https://github.com/user-attachments/assets/e5dac805-d426-4033-8b95-553505d2b18b)
-![image](https://github.com/user-attachments/assets/14f2313a-8d71-403a-92ee-03ee4005d206)
+![image](https://github.com/user-attachments/assets/4146cf05-8250-401e-b15d-e052b47e9b5e)
+![image](https://github.com/user-attachments/assets/3bfbb39f-fb98-4f2f-9fd7-9eab7fc3d355)
+![image](https://github.com/user-attachments/assets/cf082157-c8c5-457e-af82-60b961b52afd)
+![image](https://github.com/user-attachments/assets/cd4862ec-da29-488f-a00d-e294bbc877d1)
+
+
+
+
+
+
 
 ## Contact
 
