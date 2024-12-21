@@ -32,11 +32,11 @@ The dashboard tracks the following KPIs to provide a comprehensive view of busin
 
 - `Amazon Sales Dashboard.twbx`: Packaged Tableau workbook containing all data and visualizations.
 - `README.md`: Documentation for the dashboard.
-- `Amazon Sales Data`: Folder containing any external datasets used in the project (if applicable).
+- `Amazon Sales Data.csv`: Folder containing any external datasets used in the project (if applicable).
 
 ## How to Use
 
-1. Download the `dashboard.twbx` file from this repository.
+1. Download the `Amazon Sales Dashboard.twbx` file from this repository.
 2. Open the file in Tableau Desktop.
 3. Explore the visualizations and interact with filters to gain insights.
 
