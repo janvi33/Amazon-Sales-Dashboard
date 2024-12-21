@@ -49,11 +49,7 @@ The dashboard is designed to:
 
 ## Dashboard Images
 
-Include screenshots or images of the Tableau dashboard here to showcase its visualizations and functionality. For example:
-
-- Revenue and Shipments Overview
-- Profit Analysis by Country
-- Orders and Priorities Insights
+Include screenshots or images of the Tableau dashboard here to showcase its visualizations and functionality. 
 
 ![image](https://github.com/user-attachments/assets/4146cf05-8250-401e-b15d-e052b47e9b5e)
 ![image](https://github.com/user-attachments/assets/3bfbb39f-fb98-4f2f-9fd7-9eab7fc3d355)
